@@ -1,9 +1,6 @@
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import ru.netology.StatsService;
-
-import java.util.SplittableRandom;
 
 public class StatsTest {
     @Test
